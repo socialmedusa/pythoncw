@@ -144,5 +144,4 @@ def patchSize():
         print("Error, the value is not valid")
         return patchSize()
 
-
 cw()
